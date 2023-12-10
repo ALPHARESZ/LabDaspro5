@@ -1,0 +1,21 @@
+KARTU HASIL STUDI
+=================
+
+Nama    : Jeremy Alphares Napitupulu
+NIM     : 231401051
+
+|================================================|
+| No | Mata Kuliah                     | Nilai   |
+|================================================|
+|  1 | Bahasa Indonesia                |  A      |     
+|  2 | Pendidikan Pancasila            |  B      |     
+|  3 | Matematika Dasar                |  B+     |    
+|  4 | Dasar Pemrograman               |  C      |     
+|  5 | Pengenalan Ilmu Komputer        |  C+     |    
+|  6 | Lab Praktikum Dasar Pemrograman |  D      |     
+|  7 | Logika Matematika               |  E      |     
+|  8 | Organisasi Arsitektur Komputer  |  A      |     
+|================================================|
+
+Total SKS   : 19
+IP Semester : 2.55
